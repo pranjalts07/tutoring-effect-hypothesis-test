@@ -5,6 +5,15 @@
 ![Project](https://img.shields.io/badge/Project-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+<p align="center">
+  <a href="https://github.com/pranjalts07/tutoring-effect-hypothesis-test/stargazers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/star-dark.svg">
+      <img src="assets/star-light.svg" alt="Please star the repo" width="400">
+    </picture>
+  </a>
+</p>
+
 ##  Research Question
 
 **Do students who receive paid tutoring achieve higher final math grades than students who do not receive tutoring?**
